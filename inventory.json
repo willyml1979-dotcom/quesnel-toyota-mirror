@@ -1,6 +1,6 @@
 {
   "dealership": "Quesnel Toyota",
-  "generated_at": "2026-09-26T23:29:01",
+  "generated_at": "2026-10-08T14:44:20",
   "vehicle_count": 19,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,12 +19,15 @@
       "year": 2020,
       "make": "Toyota",
       "model": "Tacoma 4X4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2021 Mitsubishi RVR GT",
       "vin": "JA4AJVAWXMU607579",
       "stock": "Q3485B",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/used/6035f2d11539.html",
       "source_url": "https://www.quesneltoyota.ca/inventory/Used-2021-Mitsubishi-RVR/1577395",
       "dealer_url": "https://www.quesneltoyota.ca/inventory/Used-2021-Mitsubishi-RVR/1577395?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -34,13 +37,16 @@
       "odometer_km": 104751,
       "year": 2021,
       "make": "Mitsubishi",
-      "model": "RVR GT",
-      "condition": "used"
+      "model": "RVR",
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota RAV4 XLE",
       "vin": "2T3R1RFV7MC165428",
       "stock": "F0670",
+      "trim": "XLE",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/used/5ff2456284da.html",
       "source_url": "https://www.quesneltoyota.ca/inventory/Used-2021-Toyota-RAV4/1615517",
       "dealer_url": "https://www.quesneltoyota.ca/inventory/Used-2021-Toyota-RAV4/1615517?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -50,13 +56,16 @@
       "odometer_km": 124116,
       "year": 2021,
       "make": "Toyota",
-      "model": "RAV4 XLE",
-      "condition": "used"
+      "model": "RAV4",
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Sonata N Line",
       "vin": "KMHL54JC2NA223247",
       "stock": "F0659",
+      "trim": "N Line",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/used/1b8b751a5b8d.html",
       "source_url": "https://www.quesneltoyota.ca/inventory/Used-2022-Hyundai-Sonata/1593424",
       "dealer_url": "https://www.quesneltoyota.ca/inventory/Used-2022-Hyundai-Sonata/1593424?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -66,13 +75,16 @@
       "odometer_km": 61057,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Sonata N Line",
-      "condition": "used"
+      "model": "Sonata",
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue S",
       "vin": "5N1AT3AB4PC741947",
       "stock": "F0663",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/used/b5ffcb517255.html",
       "source_url": "https://www.quesneltoyota.ca/inventory/Used-2023-Nissan-Rogue/1594643",
       "dealer_url": "https://www.quesneltoyota.ca/inventory/Used-2023-Nissan-Rogue/1594643?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -82,13 +94,16 @@
       "odometer_km": 56866,
       "year": 2023,
       "make": "Nissan",
-      "model": "Rogue S",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Camry Hybrid XSE",
       "vin": "4T1K31AK3PU613945",
       "stock": "F0652",
+      "trim": "XSE",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/used/86086be92a98.html",
       "source_url": "https://www.quesneltoyota.ca/inventory/Used-2023-Toyota-Camry-Hybrid/1572383",
       "dealer_url": "https://www.quesneltoyota.ca/inventory/Used-2023-Toyota-Camry-Hybrid/1572383?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -98,13 +113,16 @@
       "odometer_km": 65034,
       "year": 2023,
       "make": "Toyota",
-      "model": "Camry Hybrid XSE",
-      "condition": "used"
+      "model": "Camry Hybrid",
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota C-HR Battery Electric SE",
       "vin": "JTMABABDXTJ022039",
       "stock": "Q3495",
+      "trim": "Battery Electric SE",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/eb9a993621cd.html",
       "source_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-C-HR-Battery-Electric/1566888",
       "dealer_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-C-HR-Battery-Electric/1566888?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -114,8 +132,10 @@
       "odometer_km": 60000,
       "year": 2026,
       "make": "Toyota",
-      "model": "C-HR Battery Electric SE",
-      "condition": "new"
+      "model": "C-HR",
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota GR Corolla",
@@ -128,12 +148,15 @@
       "year": 2026,
       "make": "Toyota",
       "model": "GR Corolla",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Sienna Hybrid LE",
       "vin": "5TDGRKEC7TS315429",
       "stock": "Q3461",
+      "trim": "LE",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/02da8f823cdd.html",
       "source_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Sienna-Hybrid/1528945",
       "dealer_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Sienna-Hybrid/1528945?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -143,21 +166,26 @@
       "odometer_km": 60000,
       "year": 2026,
       "make": "Toyota",
-      "model": "Sienna Hybrid LE",
-      "condition": "new"
+      "model": "Sienna Hybrid",
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Sienna Hybrid XSE",
       "vin": "5TDGSKFC4TS281923",
       "stock": "1687147",
+      "trim": "XSE",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/3c9b0aa00535.html",
       "source_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Sienna-Hybrid/1596532",
       "dealer_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Sienna-Hybrid/1596532?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T02:19:38",
       "year": 2026,
       "make": "Toyota",
-      "model": "Sienna Hybrid XSE",
-      "condition": "new"
+      "model": "Sienna Hybrid",
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Sienna",
@@ -173,7 +201,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Sienna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma 4X4",
@@ -189,12 +219,15 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Tacoma 4X4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma 4X4 TRD Sport",
       "vin": "3TYLB5JN5TT124477",
       "stock": "Q3472",
+      "trim": "TRD Sport",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/301613d55d39.html",
       "source_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Tacoma-4X4/1538459",
       "dealer_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Tacoma-4X4/1538459?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -204,13 +237,16 @@
       "odometer_km": 60000,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma 4X4 TRD Sport",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma 4X4 TRD Sport+",
       "vin": "3TYLB5JNXTT126015",
       "stock": "Q3481",
+      "trim": "TRD Sport+",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/040787b30406.html",
       "source_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Tacoma-4X4/1543649",
       "dealer_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Tacoma-4X4/1543649?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -220,13 +256,16 @@
       "odometer_km": 60000,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma 4X4 TRD Sport+",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Hybrid 4X4 DOUBLE CAB HYBRID",
       "vin": "3TYLC5LN0TT077675",
       "stock": "Q3507",
+      "trim": "DOUBLE HYBRID",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/fbb92a248d74.html",
       "source_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Tacoma-Hybrid/1609781",
       "dealer_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Tacoma-Hybrid/1609781?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -235,13 +274,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Hybrid 4X4 DOUBLE CAB HYBRID",
-      "condition": "new"
+      "model": "Tacoma Hybrid",
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra 4X4 SR",
       "vin": "5TFLA5DB0TX434644",
       "stock": "Q3499",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/09e6d609e25c.html",
       "source_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Tundra-4X4/1579738",
       "dealer_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Tundra-4X4/1579738?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -251,13 +293,16 @@
       "odometer_km": 60000,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tundra 4X4 SR",
-      "condition": "new"
+      "model": "Tundra",
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra Hybrid Limited",
       "vin": "5TFWC5DB3TX136077",
       "stock": "Q3467",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/06596c988c66.html",
       "source_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Tundra-Hybrid/1529512",
       "dealer_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Tundra-Hybrid/1529512?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -267,21 +312,26 @@
       "odometer_km": 60000,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tundra Hybrid Limited",
-      "condition": "new"
+      "model": "Tundra Hybrid",
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra Double Cab SR",
       "vin": "5TFKB5DA8TX436481",
       "stock": "Q3505",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/2daa1cf7d2ef.html",
       "source_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Tundra/1601973",
       "dealer_url": "https://www.quesneltoyota.ca/inventory/New-2026-Toyota-Tundra/1601973?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T02:20:56",
       "year": 2026,
       "make": "Toyota",
-      "model": "Tundra Double Cab SR",
-      "condition": "new"
+      "model": "Tundra",
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Land Cruiser",
@@ -297,7 +347,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Land Cruiser",
-      "condition": "new"
+      "condition": "new",
+      "city": "Quesnel",
+      "province": "BC"
     }
   ]
 }
