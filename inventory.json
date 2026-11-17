@@ -1,6 +1,6 @@
 {
   "dealership": "Quesnel Toyota",
-  "generated_at": "2026-11-17T09:32:37",
+  "generated_at": "2026-11-17T11:21:26",
   "vehicle_count": 34,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -13,40 +13,18 @@
       "make": "Volkswagen",
       "model": "Golf",
       "condition": "used",
-      "price": 13695.0,
+      "price": 10695.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Toyota Tacoma 4X4",
-      "vin": "5TFDZ5BN2LX048883",
-      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/used/f243a10ff4f3.html",
-      "year": 2020,
-      "make": "Toyota",
-      "model": "Tacoma 4X4",
-      "condition": "used",
-      "price": 46195.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Mitsubishi RVR GT",
-      "vin": "JA4AJVAWXMU607579",
-      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/used/6035f2d11539.html",
-      "year": 2021,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "used",
-      "price": 20695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Ram 1500 Classic SLT",
+      "name": "2021 Ram 1500 Classic Warlock",
       "vin": "1C6RR7LTXMS557172",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/used/543542a0f7a3.html",
       "year": 2021,
       "make": "Ram",
       "model": "1500 Classic",
       "condition": "used",
-      "price": 36695.0,
+      "price": 35695.0,
       "price_currency": "CAD"
     },
     {
@@ -57,7 +35,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 37685.0,
+      "price": 34685.0,
       "price_currency": "CAD"
     },
     {
@@ -68,7 +46,7 @@
       "make": "Hyundai",
       "model": "Sonata",
       "condition": "used",
-      "price": 27595.0,
+      "price": 26695.0,
       "price_currency": "CAD"
     },
     {
@@ -90,7 +68,18 @@
       "make": "Toyota",
       "model": "Camry Hybrid",
       "condition": "used",
-      "price": 37095.0,
+      "price": 36695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Acura ADX Platinum Elite A-Spec",
+      "vin": "3HDSA2H7XSM101581",
+      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/used/1513da03bd5c.html",
+      "year": 2025,
+      "make": "Acura",
+      "model": "ADX Platinum Elite A-Spec",
+      "condition": "used",
+      "price": 48695.0,
       "price_currency": "CAD"
     },
     {
@@ -101,7 +90,18 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 33695.0,
+      "price": 33195.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Seltos EX",
+      "vin": "KNDEUCAA8S7795358",
+      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/used/9fd6654f0396.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 28695.0,
       "price_currency": "CAD"
     },
     {
