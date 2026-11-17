@@ -1,7 +1,7 @@
 {
   "dealership": "Quesnel Toyota",
-  "generated_at": "2026-10-25T15:17:58",
-  "vehicle_count": 32,
+  "generated_at": "2026-11-17T09:32:37",
+  "vehicle_count": 34,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -116,17 +116,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota 4Runner Hybrid TRD Off Road Premium",
-      "vin": "JTEVB5BR3T5060060",
-      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/a7e47e8a7b01.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "4Runner Hybrid",
-      "condition": "new",
-      "price": 72269.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota 4Runner Limited",
       "vin": "JTEVA5BR0T5000000",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/0a7d69ed7d29.html",
@@ -138,36 +127,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota C-HR Battery Electric SE FWD",
-      "vin": "JTMABABDXTJ022039",
-      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/eb9a993621cd.html",
+      "name": "2026 Toyota 4Runner Hybrid TRD Off-Road",
+      "vin": "JTEVB5BR3T5060060",
+      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/b13acbe9592c.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "C-HR",
+      "model": "4Runner Hybrid",
       "condition": "new",
-      "price": 38648.0,
+      "price": 72878.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Corolla Cross XLE AWD",
-      "vin": "7MUDAABG9TV209646",
-      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/6732dbb9aa2f.html",
+      "name": "2026 Toyota 4Runner Limited",
+      "vin": "JTEVA5BR2T5173372",
+      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/a554beb3d7da.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla Cross",
+      "model": "4Runner",
       "condition": "new",
-      "price": 41191.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Corolla LE Upgrade",
-      "vin": "5YFB4MDEXTP508481",
-      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/2c69208eef1c.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "new",
-      "price": 31205.0,
+      "price": 73665.0,
       "price_currency": "CAD"
     },
     {
@@ -178,30 +156,50 @@
       "make": "Toyota",
       "model": "GR Corolla",
       "condition": "new",
-      "price": 61088.0,
+      "price": 60853.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota RAV4 Plug-In Hybrid SE AWD",
-      "vin": "JTM7ERAV0TD000000",
-      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/befd349abaeb.html",
+      "name": "2026 Toyota Highlander XLE",
+      "vin": "5TDKDRBH0TS622006",
+      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/9c9807f4ba69.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Highlander",
+      "condition": "new",
+      "price": 55598.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota RAV4 Plug-In Hybrid GR Sport",
+      "vin": "JTM7ERAV6TD033001",
+      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/5d778102e848.html",
       "year": 2026,
       "make": "Toyota",
       "model": "RAV4 Plug-In Hybrid",
       "condition": "new",
-      "price": 51812.0,
+      "price": 61467.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Sienna Hybrid XSE FWD",
+      "name": "2026 Toyota Sienna XSE All Wheel Drive",
       "vin": "5TDGSKFC4TS281923",
-      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/5d7fb2c1f0ed.html",
+      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/cd047badbc37.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "Sienna Hybrid",
+      "model": "Sienna",
       "condition": "new",
       "price": 61323.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Sienna XSE AWD 7-Pass",
+      "vin": "5TDGSKFC8TS288647",
+      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/3aaea86e8735.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new"
     },
     {
       "name": "2026 Toyota Tacoma Hybrid Limited",
@@ -242,7 +240,7 @@
       "make": "Toyota",
       "model": "Tundra Hybrid",
       "condition": "new",
-      "price": 92218.0,
+      "price": 89774.0,
       "price_currency": "CAD"
     },
     {
@@ -252,7 +250,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "new"
+      "condition": "new",
+      "price": 58423.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 Toyota Tundra Limited",
@@ -262,7 +262,7 @@
       "make": "Toyota",
       "model": "Tundra",
       "condition": "new",
-      "price": 75547.0,
+      "price": 73103.0,
       "price_currency": "CAD"
     },
     {
@@ -273,13 +273,35 @@
       "make": "Toyota",
       "model": "Tundra",
       "condition": "new",
-      "price": 65823.0,
+      "price": 62823.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Tundra CrewMax OFF ROAD",
+      "vin": "5TFLA5DB0TX447099",
+      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/07c3f71f310f.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "new",
+      "price": 68334.0,
       "price_currency": "CAD"
     },
     {
       "name": "2027 Toyota C-HR XSE AWD Premium",
       "vin": "JTMAAAAD0VJ032795",
       "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/52e2ea54810a.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "new",
+      "price": 57451.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota C-HR XSE",
+      "vin": "JTMAAAAD0VJ032795",
+      "url": "https://willyml1979-dotcom.github.io/quesnel-toyota-mirror/new/47abbfea651b.html",
       "year": 2027,
       "make": "Toyota",
       "model": "C-HR",
